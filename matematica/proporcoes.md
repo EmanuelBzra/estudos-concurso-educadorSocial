@@ -1,8 +1,3 @@
-# Proporções
-Desculpe pelo erro. Aqui está o texto revisado com os exemplos devidamente formatados em Markdown:
-
----
-
 ## Proporções
 
 As proporções são uma maneira de expressar a igualdade entre duas razões ou frações. Elas são amplamente utilizadas em matemática e na vida cotidiana para comparar quantidades e resolver problemas de escalas. A seguir, detalharemos os conceitos básicos, propriedades e exemplos de proporções.
@@ -86,5 +81,3 @@ As proporções são amplamente utilizadas em várias áreas, incluindo:
 - **Ciências**: Para relacionar grandezas físicas em experimentos e fórmulas.
 
 Compreender as proporções é essencial para resolver muitos problemas práticos e teóricos de maneira eficaz e precisa.
-
----
