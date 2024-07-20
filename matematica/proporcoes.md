@@ -1,5 +1,4 @@
 # Proporções
-Desculpe pelo erro. Aqui está o texto revisado com os exemplos devidamente formatados em Markdown:
 
 ---
 
